@@ -29,6 +29,9 @@ export default function Nav({ currentPage, handlePageChange }) {
         <li>
           <a href="https://arcane-dusk-42730.herokuapp.com/">Project 3</a>
         </li>
+        <li>
+          <a href="https://docs.google.com/document/d/e/2PACX-1vS82q385KN5arCjIhae12ogsjqrV6dx86wleRS90k1jEldqHIPMp4vUGs4WCszkw9pRrjyosOtdpImv/pub">My Resume</a>
+        </li>
       </nav>
     </div>
   );
