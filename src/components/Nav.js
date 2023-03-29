@@ -27,7 +27,7 @@ export default function Nav({ currentPage, handlePageChange }) {
           <a href="https://plantparenthood.herokuapp.com/">Project 2</a>
         </li>
         <li>
-          <a href="#">Project 3</a>
+          <a href="https://arcane-dusk-42730.herokuapp.com/">Project 3</a>
         </li>
       </nav>
     </div>
