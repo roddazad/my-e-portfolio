@@ -84,6 +84,26 @@ li a:focus{
     row-gap: 10px;
     column-gap: 10px;
 }
+.h2proj{
+    display: flex;
+    margin-left: 25px;
+    color:rgb(221, 204, 204);
+}
+.h2proj2{
+    display: flex;
+    margin-left: 25px;
+    color:rgb(9, 58, 58);
+}
+.h2proj3{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 25px;
+    color:rgb(9, 58, 58);
+}
+.afont{
+    color:rgb(9, 58, 58);
+    
+}
 .box a p{
     font-size:auto; 
     color:azure;
@@ -105,7 +125,7 @@ li a:focus{
     font-size: 1.1rem;
 }
 .box{
-    
+    display: flex;
     background-color: antiquewhite;
 }
 .project1{
@@ -115,17 +135,25 @@ li a:focus{
     grid-column: 2/ span 2;
 }
 .project2{
-    background-image: url("../images/proj2.jpg");
+    background-image: url("../images/Plant.jpg");
     background-size:cover;
 }
 .project3{
-    background-image: url("../images/proj3.jpg");
+    background-image: url("../images/Hussle.jpg");
     background-size:cover;
 } 
 #project2Box {
     font-size:auto; 
     color:rgb(9, 58, 58);
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size:larger;
+
+}
+#project3Box {
+    font-size:auto; 
+    color:rgb(9, 58, 58);
+    margin-top: 55px;
     margin-left: 200px;
     font-size:larger;
 
