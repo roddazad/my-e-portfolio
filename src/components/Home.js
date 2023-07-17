@@ -15,16 +15,17 @@ export default function Home() {
           </div>
           <div>
             <h2>Hi everyone, my name is Rodd Azad!</h2>
-            <p>As a newly graduated Full Stack Developer I am seeking for a position where I could leverage and apply my new earned skills being HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, computer science, MongoDB, MySQL, Git, and more while contributing my full willingness to grow as a team player to best benefit an organization where I, as an employee could take advantage of gaining more experience and knowledge as a developer.</p>
-            <p>
+            <h3>As a newly graduated Full Stack Developer I am seeking for a position where I could leverage and apply my new earned skills being HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, computer science, MongoDB, MySQL, Git, and more while contributing my full willingness to grow as a team player to best benefit an organization where I, as an employee could take advantage of gaining more experience and knowledge as a developer.</h3>
+            <h3>
               Here is where I will share with you my projects from bootcamp.
-            </p>
+            </h3>
           </div>
-        </div>
-
+        </div >
+<div className="projcontainer{">
         <Proj1 />
         <Proj2 />
         <Proj3 />
+        </div>
       </div>
     );
 }
