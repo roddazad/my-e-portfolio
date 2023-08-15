@@ -30,7 +30,7 @@ export default function Nav({ currentPage, handlePageChange }) {
           <a href="https://sidehustle-2-b9e1b7f60bb4.herokuapp.com/">Project 3</a>
         </li>
         <li>
-          <a href="https://docs.google.com/document/d/1mwFEqt8c9noBQF1mHgna2aw70bn2MmIKVrjVtMY7WcA/edit?usp=sharing">My Resume</a>
+          <a href="https://docs.google.com/document/d/1DF6utlQg9zmOu2U4khxDjs1CQnR4yZ3PVqWULEeslNk/edit?usp=sharing">My Resume</a>
         </li>
       </nav>
     </div>
