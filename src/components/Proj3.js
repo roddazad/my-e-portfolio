@@ -19,7 +19,7 @@ export default function Proj3() {
       </h3>
       <div>
       <a  href="https://sidehustle-2-b9e1b7f60bb4.herokuapp.com/">
-        <p id="project3Box">PROJECT 3: Side Hustle</p>
+        <p id="project3Box">PROJECT 2: Side Hustle</p>
       </a>
       <a href="https://github.com/HunterHarvell/Project-3-Team-2.git">
         <p id="project3Box">Github Repository</p>

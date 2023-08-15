@@ -23,11 +23,11 @@ export default function Nav({ currentPage, handlePageChange }) {
         <li>
           <a href="https://vanwykkim.github.io/movie-lookup/">Project 1</a>
         </li>
-        <li>
+        {/* <li>
           <a href="https://plant-app-1-774b2d3b1fcd.herokuapp.com/">Project 2</a>
-        </li>
+        </li> */}
         <li>
-          <a href="https://sidehustle-2-b9e1b7f60bb4.herokuapp.com/">Project 3</a>
+          <a href="https://sidehustle-2-b9e1b7f60bb4.herokuapp.com/">Project 2</a>
         </li>
         <li>
           <a href="https://docs.google.com/document/d/1DF6utlQg9zmOu2U4khxDjs1CQnR4yZ3PVqWULEeslNk/edit?usp=sharing">My Resume</a>

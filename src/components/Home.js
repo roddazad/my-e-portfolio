@@ -23,7 +23,7 @@ export default function Home() {
         </div >
 <div className="projcontainer{">
         <Proj1 />
-        <Proj2 />
+        {/* <Proj2 /> */}
         <Proj3 />
         </div>
       </div>
